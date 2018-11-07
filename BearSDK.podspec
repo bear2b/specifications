@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                          = 'BearSDK'
-    s.version                       = '2.0.8'
+    s.version                       = '2.0.10'
     s.license                       = { :type => 'Proprietary', :file => 'Carthage/Build/iOS/LICENSE.md' }
     s.summary                       = 'Augmented reality simple and powerful'
     s.homepage                      = 'https://bear2b.com'

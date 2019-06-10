@@ -4,5 +4,6 @@
     "2.0.7": "https://s3-eu-west-1.amazonaws.com/mobile-dev.bear2b.com/bearsdk-ios/2.0.7/BearSDK.framework.zip",
     "2.0.8": "https://s3-eu-west-1.amazonaws.com/mobile-dev.bear2b.com/bearsdk-ios/2.0.8/BearSDK.framework.zip",
     "2.0.10": "https://s3-eu-west-1.amazonaws.com/mobile-dev.bear2b.com/bearsdk-ios/2.0.10/BearSDK.framework.zip",
-    "2.0.11": "https://s3-eu-west-1.amazonaws.com/mobile-dev.bear2b.com/bearsdk-ios/2.0.11/BearSDK.framework.zip"
+    "2.0.11": "https://s3-eu-west-1.amazonaws.com/mobile-dev.bear2b.com/bearsdk-ios/2.0.11/BearSDK.framework.zip",
+    "2.1.0": "https://s3-eu-west-1.amazonaws.com/mobile-dev.bear2b.com/bearsdk-ios/2.1.0/BearSDK.framework.zip"
 }
